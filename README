@@ -1,0 +1,12 @@
+Just some disorganized code for a potential 3d editor.
+This is nothing more than a toy, don't expect to be able to build this
+or do anything useful with it.
+There are some paths hardcoded in the makefile,
+and it uses my librw library so I can load some 3d files.
+
+My plan was to recreate the old Alias user interface with dear imgui,
+which seems to be working somewhat well.
+I even got some basic marking menus.
+
+Credits:
+I'm using dear imgui, imguizmo, lodepng and glad
